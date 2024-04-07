@@ -3,3 +3,6 @@
 void main()
 {
 }
+
+int funca()
+{}
