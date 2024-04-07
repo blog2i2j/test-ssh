@@ -20,5 +20,6 @@ int funca()
 int funcb()
 {
 	int d;
+	printf("funcbxx");
 	return 0;
 }
