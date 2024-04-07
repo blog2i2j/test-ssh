@@ -2,10 +2,12 @@
 
 void main()
 {
-	printf("hello world!")
+	printf("hello world!");
+	int b;
 }
 
 int funca()
 {
-	printf("commit all!")
+	printf("commit all!");
+	int c;
 }
