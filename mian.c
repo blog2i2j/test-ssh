@@ -6,8 +6,19 @@ void main()
 	int b;
 }
 
+int funcc()
+{
+	printf("funcc");
+}
+
 int funca()
 {
 	printf("commit all!");
 	int c;
+}
+
+int funcb()
+{
+	int d;
+	return 0;
 }
