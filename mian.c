@@ -23,3 +23,8 @@ int funcb()
 	printf("funcbxx");
 	return 0;
 }
+
+int funcc()
+{
+	int func;
+}
